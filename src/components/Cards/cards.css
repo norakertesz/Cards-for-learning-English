@@ -1,0 +1,22 @@
+.cards{
+    font-size: 35px;
+    color:rgb(255, 255, 255);
+    border: solid black;
+    inline-size: 300px;
+    text-align: center;
+    margin: 10px;
+    cursor: pointer;
+    user-select: none;
+    display: flexbox;
+}
+
+.cards.front{
+background-color: rgb(255, 0, 21);
+
+}
+
+.cards.back{
+background-color: rgb(124, 0, 128);
+}
+
+

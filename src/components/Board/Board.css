@@ -1,0 +1,5 @@
+.tableBoard{
+    text-align: center;
+    margin:auto;
+    background-image: linear-gradient(rgba(255, 192, 203, 0.373), rgba(255, 0, 0, 0.419), rgba(128, 0, 128, 0.647));
+}
